@@ -8,6 +8,14 @@
 - MongoDB
 - Express.js
 - Material UI
+- JavaScript (ES6+)
+- TypeScript
+- HTML5
+- CSS3
+- REST APIs
+- GraphQL
+- Git & GitHub
+- Postman
 
 ## 📂 Projects
 
